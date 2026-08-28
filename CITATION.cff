@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this manuscript, please cite the preferred citation below."
+
+title: "Rough Polynomial Fluctuation Theory: Coefficient-Uniform Jump, Variation, and Endpoint Bounds"
+
+authors:
+  - family-names: "Tseng"
+
+version: "1"
+date-released: 2026-08-28
+
+url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory"
+
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: "Tseng"
+  title: "Rough Polynomial Fluctuation Theory: Coefficient-Uniform Jump, Variation, and Endpoint Bounds"
+  year: 2026
+  url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory/releases/tag/v1"
