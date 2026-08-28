@@ -5,7 +5,7 @@
 **Tseng**
 
 Preprint in harmonic analysis.
-
+**Current public release:** [v1 (2026-08-28)](https://github.com/Tseng-math/rough-polynomial-fluctuation-theory/releases/tag/v1)
 [**Read the paper (PDF)**](./rough_polynomial_fluctuation_theory.pdf) ·
 [**LaTeX source**](./rough_polynomial_fluctuation_theory.tex) ·
 [**Citation metadata**](./CITATION.cff)
@@ -53,7 +53,7 @@ When citing the manuscript, please cite the specific released version when the d
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
-After the citation file is added, GitHub's **Cite this repository** menu can be used to export citation information. If a persistent identifier such as a DOI is assigned later, the metadata will be updated accordingly.
+GitHub's **Cite this repository** menu can be used to export citation information. If a persistent identifier such as a DOI is assigned later, the metadata will be updated accordingly.
 
 ## AI-use disclosure
 
