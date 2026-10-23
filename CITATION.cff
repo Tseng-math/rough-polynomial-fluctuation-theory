@@ -1,20 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this manuscript, please cite the preferred citation below."
-
-title: "Rough Polynomial Fluctuation Theory: Coefficient-Uniform Critical Jumps, Finite Radial Variation, and Endpoint Bounds"
-
+title: "Critical Jumps for Rough Polynomial Carleson Operators with Angular Hardy Data and Finite Radial Variation"
 authors:
   - family-names: "Tseng"
-
-version: "2"
-date-released: 2026-08-31
-
+version: "3"
 url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory"
-
+abstract: >-
+  Strong Lp critical-jump bounds hold for every 1 < p < infinity and
+  mean-zero angular Hardy H1 data on the sphere, with the bounded-degree
+  polynomial phase supremum and jump-amplitude supremum both inside the
+  spatial norm. For each fixed polynomial phase, mean-zero angular L log L
+  data give a weak type (1,1) estimate uniform in the polynomial coefficients.
+  Both estimates allow each fixed radial amplitude of finite rho-variation,
+  1 <= rho < infinity, and concern complete sharp-truncation trajectories.
+  They imply maximal-truncation bounds, r-variation for r > 2, and
+  principal-value convergence.
 preferred-citation:
   type: unpublished
   authors:
     - family-names: "Tseng"
-  title: "Rough Polynomial Fluctuation Theory: Coefficient-Uniform Critical Jumps, Finite Radial Variation, and Endpoint Bounds"
+  title: "Critical Jumps for Rough Polynomial Carleson Operators with Angular Hardy Data and Finite Radial Variation"
+  version: "3"
   year: 2026
-  url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory/releases/tag/v2"
+  url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory"
