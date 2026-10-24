@@ -44,7 +44,7 @@ env.update(TMPDIR=str(paths["tmp"]), XDG_CACHE_HOME=str(paths["cache"]),
            TECTONIC_CACHE_DIR=str(paths["cache/tectonic"]),
            TEXMFVAR=str(paths["cache/texmf-var"]),
            TEXMFCONFIG=str(paths["cache/texmf-config"]),
-           PYTHONDONTWRITEBYTECODE="1", SOURCE_DATE_EPOCH="1792713600")
+           PYTHONDONTWRITEBYTECODE="1", SOURCE_DATE_EPOCH="1792800000")
 lock = json.loads((root / "scripts/tectonic.json").read_text())
 platform_name = {("Darwin", "arm64"): "aarch64-apple-darwin",
                  ("Darwin", "x86_64"): "x86_64-apple-darwin",

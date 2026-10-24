@@ -3,7 +3,8 @@ message: "If you use this manuscript, please cite the preferred citation below."
 title: "Critical Jumps for Rough Polynomial Carleson Operators with Angular Hardy Data and Finite Radial Variation"
 authors:
   - family-names: "Tseng"
-version: "3"
+version: "4.1"
+date-released: "2026-10-24"
 url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory"
 abstract: >-
   Strong Lp critical-jump bounds hold for every 1 < p < infinity and
@@ -20,6 +21,6 @@ preferred-citation:
   authors:
     - family-names: "Tseng"
   title: "Critical Jumps for Rough Polynomial Carleson Operators with Angular Hardy Data and Finite Radial Variation"
-  version: "3"
+  version: "4.1"
   year: 2026
   url: "https://github.com/Tseng-math/rough-polynomial-fluctuation-theory"

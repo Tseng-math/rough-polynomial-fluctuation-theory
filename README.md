@@ -1,6 +1,6 @@
 # Critical Jumps for Rough Polynomial Carleson Operators with Angular Hardy Data and Finite Radial Variation
 
-**Tseng** · Version 3 · October 23, 2026
+**Tseng** · Version 4.1 · October 24, 2026
 
 [Read the paper](rough_polynomial_fluctuation_theory.pdf) · [LaTeX source](rough_polynomial_fluctuation_theory.tex) · [Citation](CITATION.cff) · [Version history](CHANGELOG.md)
 
